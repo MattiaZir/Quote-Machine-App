@@ -1,0 +1,29 @@
+body {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+.text {
+  color: white;
+  text-align: center;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+#quote {
+  width: 70%;
+  margin: 0 auto;
+  font-size: 2.5em;
+  margin-top: 30vh;
+}
+
+#author {
+  margin-top: 40px;
+  margin-left: 30%;
+  font-size: 1.6em;
+  font-style: italic;
+}
+
+#btnWrapper {
+  padding-top: 50px;
+  text-align: center;
+}
